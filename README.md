@@ -53,10 +53,10 @@ python -u reg.py \
 
 ## Citation
 ```
-@article{2022-PEPLER,
+@article{TOIS23-PEPLER,
 	title={Personalized Prompt Learning for Explainable Recommendation},
 	author={Li, Lei and Zhang, Yongfeng and Chen, Li},
-	journal={arXiv preprint arXiv:2202.07371},
-	year={2022}
+	journal={ACM Transactions on Information Systems (TOIS)},
+	year={2023}
 }
 ```
