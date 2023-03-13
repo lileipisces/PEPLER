@@ -1,7 +1,7 @@
 # PEPLER (PErsonalized Prompt Learning for Explainable Recommendation)
 
 ## Paper
-- Lei Li, Yongfeng Zhang, Li Chen. [Personalized Prompt Learning for Explainable Recommendation](https://arxiv.org/abs/2202.07371). 2022.
+- Lei Li, Yongfeng Zhang, Li Chen. [Personalized Prompt Learning for Explainable Recommendation](https://arxiv.org/abs/2202.07371). ACM Transactions on Information Systems (TOIS), 2023.
 
 **A small unpretrained Transformer version is available at [PETER](https://github.com/lileipisces/PETER)!**
 
