@@ -47,6 +47,7 @@ python -u reg.py \
 ## Code dependencies
 - Python 3.6
 - PyTorch 1.6
+- transformers 4.18.0
 
 ## Code reference
 - [mkultra: Prompt Tuning Toolkit for GPT-2](https://github.com/corolla-johnson/mkultra)
