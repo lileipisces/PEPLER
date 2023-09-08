@@ -3,6 +3,8 @@
 ## Paper
 - Lei Li, Yongfeng Zhang, Li Chen. [Personalized Prompt Learning for Explainable Recommendation](https://arxiv.org/abs/2202.07371). ACM Transactions on Information Systems (TOIS), 2023.
 
+**A T5 version that can perform multiple recommendation tasks is available at [POD](https://github.com/lileipisces/POD)!**
+
 **A small unpretrained Transformer version is available at [PETER](https://github.com/lileipisces/PETER)!**
 
 **A small ecosystem for Recommender Systems-based Natural Language Generation is available at [NLG4RS](https://github.com/lileipisces/NLG4RS)!**
